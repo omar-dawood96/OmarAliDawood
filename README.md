@@ -33,14 +33,8 @@ I build automation tools and Revit add-ins that make BIM workflows faster, clean
 | ⛰️ **[Slope Analysis](#)** | Analyzes and visualizes slope/grading data directly in Revit for site and roof elements, flagging out-of-tolerance areas for design review. |
 | 🗑️ **[Temporary File Remover](#)** | Cleans temporary Revit working files (`.tmp`, journal files, etc.) from local and shared directories to keep project folders lightweight. |
 
-> Replace the `#` links above with each repo's URL once uploaded, and pin your top 3–4 on your GitHub profile so recruiters see them first.
 
-## 🏗️ Selected Project Experience
 
-- Qiddya-Metropolex Hotel
-- Sawary Compound, Alexandria — Shop drawings (LOD 400) + material take-off
-- Villa Abdullah El Mujadi & Villa Majed El-Dossary, Saudi Arabia — Design development, interior design, shop drawings
-- Residential projects, Los Angeles, USA — Design development + shop drawings
 
 ## 📄 Certifications
 
