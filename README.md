@@ -37,7 +37,7 @@ I build automation tools and Revit add-ins that make BIM workflows faster, clean
 
 ## 🏗️ Selected Project Experience
 
-- Hayat Karema Hospital, Egypt — Shop drawings (LOD 400) + material take-off
+- Qiddya-Metropolex Hotel
 - Sawary Compound, Alexandria — Shop drawings (LOD 400) + material take-off
 - Villa Abdullah El Mujadi & Villa Majed El-Dossary, Saudi Arabia — Design development, interior design, shop drawings
 - Residential projects, Los Angeles, USA — Design development + shop drawings
